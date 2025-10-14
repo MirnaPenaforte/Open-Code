@@ -36,7 +36,6 @@ A aplicação promove visibilidade institucional, conectando apoiadores e marcas
 * JavaScript (ES6+) – interatividade e manipulação dinâmica.
 * React – componentes reutilizáveis e controle de rotas.
 * Git e GitHub – controle de versão e repositório.
-* GitHub Pages – hospedagem e deploy.
 
 ---
 
