@@ -90,6 +90,9 @@ RecantoJudo/
 ## Equipe Open Code
 
 Arthur de Figueiredo Costa Duarte
+
 Lavinia Ogawa Osorio
+
 Mirna Gabriela Soares Penaforte
+
 Yuri Ribeiro Moraes
